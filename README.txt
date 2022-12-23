@@ -28,5 +28,6 @@ The Go starter application has files as below:
 
         This directory contains the app's dependencies and is created by the Godep tool.
 
+clone 20221222
 
 
